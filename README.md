@@ -1,3 +1,3 @@
 # About
 
-These are my notes from classes at INITS, and reading session at home.
+These are my notes from classes at INITS, and reading sessions at home.
