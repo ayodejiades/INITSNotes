@@ -4,6 +4,8 @@
 
 ## Speaker: Mr. Izuchukwu Ezeador
 
+---
+
 ## Topic: Intro to Quality Assurance
 
 ## Speaker: Mr. Oluwaseyi Ajadi
@@ -39,6 +41,8 @@ Software Testing: Ensuring that a software does what it is meant to do. In clear
 - Attention to detail
 
 EMBRACE SILENCE, YOUR WORD IS YOUR BOND.
+
+---
 
 ## Topic: Intro to Technical Writing
 
