@@ -12,5 +12,5 @@ I read the Wikipedia's entry on [databases](https://wikipedia.com/) and took not
 
 - Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage
 - The Oxford English Dictionary cites a 1962 report by the System Development Corporation of California as the first to use the term "database" in a specific technical sense.
--[Charles Bachman](https://wikipedia.com/) founded the Database Task Group within CODASYL, the group responsible for the creation and standardization of COBOL.
+- [Charles Bachman](https://wikipedia.com/) founded the Database Task Group within CODASYL, the group responsible for the creation and standardization of COBOL.
 - In 1971, the Database Task Group delivered their standard, which generally became known as the CODASYL approach.
