@@ -1,5 +1,5 @@
-# Day One
+# Day 1
 
-Date:
-Instructor:
-Topic:
+## Topic
+
+## Speaker
